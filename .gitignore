@@ -11,3 +11,4 @@ wheels/
 .env 
 .claude
 AGENT.md
+.python-version
